@@ -1,0 +1,36 @@
+.poster{
+  color:black;
+  width: 100;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  background-color: yellowgreen;
+
+}
+.img{
+    border: 0px;
+    width: 100%;
+}
+h1{
+    align-items: center;
+    padding-top: 10px;
+    font-size: 40px;;
+}
+p{
+    font-size: 12px;
+    padding-bottom: 50px;
+}
+.contact{
+    background-color: burlywood;
+    margin:100px;
+    margin-inline-start: 0px;;
+
+}
+ol{
+    font-size: large ;
+}
+h3{
+    color: red;
+}
